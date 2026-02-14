@@ -1,0 +1,83 @@
+{
+  "expo": {
+    "name": "Smart Waste Management",
+    "slug": "smart-waste-management",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "newArchEnabled": true,
+    "userInterfaceStyle": "light",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "waste.system.app",
+      "infoPlist": {
+        "NSLocationWhenInUseUsageDescription": "This app needs location access to show nearby waste bins.",
+        "NSLocationAlwaysUsageDescription": "This app needs location access to show nearby waste bins.",
+        "NSCameraUsageDescription": "This app needs camera access to upload photos when reporting issues.",
+        "NSPhotoLibraryUsageDescription": "This app needs photo library access to select photos when reporting issues."
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#ffffff"
+      },
+      "package": "waste.system.app",
+      "permissions": [
+        "ACCESS_FINE_LOCATION",
+        "ACCESS_COARSE_LOCATION",
+        "CAMERA",
+        "READ_EXTERNAL_STORAGE",
+        "WRITE_EXTERNAL_STORAGE",
+        "RECEIVE_BOOT_COMPLETED",
+        "VIBRATE"
+      ],
+      "googleServicesFile": "./google-services.json",
+      "config": {
+        "googleMaps": {
+          "apiKey": "YOUR_GOOGLE_MAPS_API_KEY"
+        }
+      }
+    },
+    "web": {},
+    "plugins": [
+      [
+        "expo-location",
+        {
+          "locationAlwaysAndWhenInUsePermission": "Allow Smart Waste Management to use your location to show nearby bins."
+        }
+      ],
+      [
+        "expo-notifications",
+        {
+          "color": "#ffffff"
+        }
+      ],
+      [
+        "expo-image-picker",
+        {
+          "photosPermission": "The app accesses your photos to let you upload images when reporting issues."
+        }
+      ],
+      "expo-camera"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "smartwastemanagement-c7500"
+      },
+      "firebase": {
+        "apiKey": "AIzaSyB82EcwoEjS97xLerlTsT9ujLpTHtdn26U",
+        "projectId": "smartwastemanagement-c7500",
+        "storageBucket": "smartwastemanagement-c7500.firebasestorage.app",
+        "messagingSenderId": "154980746966",
+        "appId": "1:154980746966:android:660b66d1e569fa33752b77"
+      }
+    }
+  }
+}
+

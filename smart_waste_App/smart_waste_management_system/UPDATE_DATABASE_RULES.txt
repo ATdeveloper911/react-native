@@ -1,0 +1,9 @@
+Copy and paste this into your Realtime Database Rules:
+
+{
+  "rules": {
+    ".read": true,
+    ".write": true
+  }
+}
+
