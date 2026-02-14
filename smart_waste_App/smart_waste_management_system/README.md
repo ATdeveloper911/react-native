@@ -1,232 +1,72 @@
-# Smart Waste Management System (SWMS)
+# ♻️ Smart Waste Management System (SWMS)
 
-A comprehensive mobile application built with Expo React Native for managing waste collection and monitoring smart bins in real-time.
+[![Expo](https://img.shields.io/badge/Expo-51.0.0-000020?style=for-the-badge&logo=expo&logoColor=white)](https://expo.dev/)
+[![React Native](https://img.shields.io/badge/React_Native-v0.74-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactnative.dev/)
+[![Firebase](https://img.shields.io/badge/Firebase-Realtime-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
+[![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 
-## Features
+**SWMS** is a high-performance, real-time IoT-integrated mobile solution designed to optimize urban waste collection. Featuring a tri-role ecosystem (Citizen, Worker, Admin), the app leverages live bin-level tracking, Google Maps route optimization, and automated task dispatching.
 
-### For Citizens
-- **Real-time Bin Map**: View nearby waste bins with color-coded status indicators
-- **Issue Reporting**: Report problems with photo uploads and offline support
-- **Educational Content**: Learn about waste segregation and recycling
+---
 
-### For Collection Workers
-- **Task Dashboard**: View assigned collection tasks
-- **Route Navigation**: Optimized routes with Google Maps integration
-- **Task Management**: Update task status and track progress
+## 📱 App Gallery
 
-### For Administrators
-- **Bin Monitoring**: Real-time dashboard showing all bins and their status
-- **Task Assignment**: Assign and manage collection tasks
-- **Analytics**: View system statistics and reports
+<div align="center">
+  <table style="border: none;">
+    <tr>
+      <td><img src="https://github.com/user-attachments/assets/a10e3097-92f9-48d7-95a7-dab6cb2e242c" width="160" alt="Splash"/></td>
+      <td><img src="https://github.com/user-attachments/assets/9ccacd75-ceff-4edd-b13f-3662fa62c18c" width="160" alt="Login"/></td>
+      <td><img src="https://github.com/user-attachments/assets/57883e56-c5f1-4867-b857-72a0fdce42ea" width="160" alt="Admin"/></td>
+      <td><img src="https://github.com/user-attachments/assets/f99e54d8-efda-45b7-865d-94cda394c0ba" width="160" alt="Citizen"/></td>
+      <td><img src="https://github.com/user-attachments/assets/bff4aaf8-c97b-461f-bca1-a44ff2249215" width="160" alt="Worker"/></td>
+    </tr>
+    <tr align="center">
+      <td><b>Splash</b></td>
+      <td><b>Auth</b></td>
+      <td><b>Admin Dash</b></td>
+      <td><b>Citizen Dash</b></td>
+      <td><b>Worker Dash</b></td>
+    </tr>
+  </table>
+</div>
 
-## Tech Stack
+---
 
-- **Framework**: Expo React Native (~51.0.0)
-- **Language**: TypeScript
-- **Backend**: Firebase (Realtime Database, Authentication, Cloud Storage, Cloud Messaging)
-- **Navigation**: React Navigation (Bottom Tabs, Stack, Drawer)
-- **Maps**: react-native-maps with Google Maps
-- **UI**: React Native Paper
-- **State Management**: React Context API
-- **Offline Support**: AsyncStorage with sync queue
+## ⚡ Core Functionality
 
-## Prerequisites
+### 👤 Citizen Portal
+* **Live Bin Mapping:** Interactive Google Maps interface with color-coded fill levels.
+* **Smart Reporting:** Report overflows with photo proof and offline queuing (AsyncStorage).
+* **Impact Tracking:** Educational modules on recycling and sustainability.
 
-- Node.js (v16 or higher)
-- npm or yarn
-- Expo CLI
-- Firebase project with Realtime Database enabled
-- Google Maps API key (for map functionality)
+### 👷 Worker Tools
+* **Dynamic Routing:** Automated pathfinding to "Full" bins via Google Maps API.
+* **Task Lifecycle:** Real-time status updates (Pending → In-Progress → Completed).
+* **Instant Alerts:** Push notifications for urgent overflow reports in assigned sectors.
 
-## Installation
+### 🛡️ Admin Command Center
+* **Fleet Management:** Real-time surveillance of all smart-bin statuses.
+* **Resource Allocation:** AI-assisted worker dispatching based on bin priority.
+* **Data Analytics:** Comprehensive system health reports and collection efficiency metrics.
 
-1. **Clone the repository**
+---
+
+## 🛠️ Technical Architecture
+
+| Layer | Tech Stack |
+| :--- | :--- |
+| **Frontend** | React Native (Expo SDK 51), TypeScript |
+| **UI Engine** | React Native Paper (Material Design 3) |
+| **Data Engine** | Firebase Realtime Database (NoSQL) |
+| **Geolocation** | react-native-maps + Google Maps SDK |
+| **State** | React Context API + Custom Hooks |
+| **Sync** | Offline-first sync queue with AsyncStorage |
+
+---
+
+## 🚀 Installation & Setup
+
+1. **Clone & Install**
    ```bash
-   git clone <repository-url>
-   cd smart_waste_management_system
-   ```
-
-2. **Install dependencies**
-   ```bash
-   npm install
-   ```
-
-3. **Configure Firebase**
-   - Ensure `google-services.json` is in the project root
-   - Update Firebase configuration in `src/config/firebase.ts` if needed
-   - Set up Firebase Realtime Database rules
-
-4. **Configure Google Maps**
-   - Get a Google Maps API key
-   - Update `app.json` with your API key:
-     ```json
-     "android": {
-       "config": {
-         "googleMaps": {
-           "apiKey": "YOUR_GOOGLE_MAPS_API_KEY"
-         }
-       }
-     }
-     ```
-
-5. **Start the development server**
-   ```bash
-   npm start
-   ```
-
-## Project Structure
-
-```
-src/
-├── components/       # Reusable UI components
-├── screens/          # Screen components
-│   ├── auth/        # Authentication screens
-│   ├── citizen/     # Citizen role screens
-│   ├── worker/      # Worker role screens
-│   └── admin/       # Admin role screens
-├── navigation/       # Navigation configuration
-├── services/         # Firebase services and API calls
-├── context/          # React Context providers
-├── types/            # TypeScript type definitions
-├── utils/            # Helper functions and constants
-├── hooks/            # Custom React hooks
-└── config/           # Configuration files
-```
-
-## Firebase Database Structure
-
-```
-{
-  "users": {
-    "{userId}": {
-      "id": string,
-      "email": string,
-      "role": "citizen" | "worker" | "admin",
-      "name": string,
-      "createdAt": number,
-      "isActive": boolean
-    }
-  },
-  "bins": {
-    "{binId}": {
-      "id": string,
-      "location": {
-        "latitude": number,
-        "longitude": number
-      },
-      "fillLevel": number (0-100),
-      "status": "empty" | "filling" | "full" | "overflow" | "offline",
-      "lastUpdate": number,
-      "isOnline": boolean
-    }
-  },
-  "tasks": {
-    "{taskId}": {
-      "id": string,
-      "workerId": string,
-      "binIds": string[],
-      "route": {
-        "waypoints": Array<{
-          "binId": string,
-          "latitude": number,
-          "longitude": number,
-          "order": number
-        }>
-      },
-      "status": "pending" | "in-progress" | "completed" | "cancelled",
-      "priority": "low" | "medium" | "high",
-      "assignedAt": number,
-      "completedAt": number (optional)
-    }
-  },
-  "reports": {
-    "{reportId}": {
-      "id": string,
-      "userId": string,
-      "binId": string (optional),
-      "type": "missed-collection" | "bin-damage" | "illegal-dumping" | "other",
-      "description": string,
-      "photos": string[] (optional),
-      "location": {
-        "latitude": number,
-        "longitude": number
-      } (optional),
-      "status": "pending" | "in-review" | "resolved" | "rejected",
-      "createdAt": number,
-      "resolvedAt": number (optional)
-    }
-  }
-}
-```
-
-## Features Implementation
-
-### Authentication
-- Email/password authentication via Firebase Auth
-- Role-based access control (Citizen, Worker, Admin)
-- User profile management
-
-### Real-time Updates
-- Firebase Realtime Database listeners for bin status
-- Automatic UI updates when data changes
-- Optimized for performance with minimal re-renders
-
-### Offline Support
-- Reports and task updates queued when offline
-- Automatic sync when connection is restored
-- Local caching of bin data
-
-### Push Notifications
-- Expo Notifications with FCM support
-- Notification channels for different alert types
-- Background and foreground notification handling
-
-## Building for Production
-
-### Android
-```bash
-eas build --platform android
-```
-
-### iOS
-```bash
-eas build --platform ios
-```
-
-## Environment Variables
-
-Create a `.env` file (optional) for local development:
-```
-GOOGLE_MAPS_API_KEY=your_api_key_here
-```
-
-## Firebase Setup
-
-1. Create a Firebase project at https://console.firebase.google.com
-2. Enable Authentication (Email/Password)
-3. Create a Realtime Database
-4. Set up Cloud Storage for report photos
-5. Configure Cloud Messaging for push notifications
-6. Download `google-services.json` and place it in the project root
-
-## Testing
-
-Run tests with:
-```bash
-npm test
-```
-
-## Contributing
-
-1. Create a feature branch
-2. Make your changes
-3. Submit a pull request
-
-## License
-
-[Your License Here]
-
-## Support
-
-For issues and questions, please open an issue on the repository.
-
+   git clone [https://github.com/yourusername/swms.git](https://github.com/yourusername/swms.git)
+   cd swms && npm install
