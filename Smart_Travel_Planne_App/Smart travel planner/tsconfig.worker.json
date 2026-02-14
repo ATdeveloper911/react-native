@@ -1,0 +1,52 @@
+{
+  "compilerOptions": {
+    "allowJs": true,
+    "esModuleInterop": true,
+    "jsx": "react-native",
+    "lib": [
+      "dom",
+      "esnext"
+    ],
+    "module": "preserve",
+    "moduleDetection": "force",
+    "moduleResolution": "bundler",
+    "customConditions": [
+      "react-native"
+    ],
+    "resolveJsonModule": true,
+    "skipLibCheck": true,
+    "target": "esnext",
+    "allowSyntheticDefaultImports": true,
+    "resolvePackageJsonExports": true,
+    "resolvePackageJsonImports": true,
+    "useDefineForClassFields": true,
+
+    "strict": true,
+    "noEmit": true,
+    "baseUrl": ".",
+    "paths": {
+      "@/*": [
+        "./src/*"
+      ]
+    }
+  },
+  "files": [
+    "src/screens/worker/WorkerDashboardScreen.tsx",
+    "src/screens/worker/WorkerMapScreen.tsx",
+    "src/screens/worker/TaskDetailScreen.tsx",
+    "src/navigation/WorkerNavigator.tsx",
+    "src/context/AuthContext.tsx",
+    "src/services/binService.ts",
+    "src/services/authService.ts",
+    "src/config/firebase.ts",
+    "src/types/index.ts",
+    "src/utils/theme.ts",
+    "src/utils/constants.ts",
+    "src/utils/biometric.ts"
+  ],
+  "exclude": [
+    "all_portals/**",
+    "home_dashboard/**",
+    "node_modules/**"
+  ]
+}
