@@ -70,4 +70,12 @@ app/
 ├── (tabs)/       # Main Navigation (Home, Mood, Chat, Journal, Community)
 ├── community/    # Community Feed & Interaction logic
 └── services/     # AI, Firebase, and Photo processing logic
+```
+---
+## 📫 Connect with the Architect
+
+* **Portfolio**: [asad-portfolio-pi.vercel.app](https://asad-portfolio-pi.vercel.app/)
+* **Status**: `SYSTEMS_OPERATIONAL` 🟢
+
+---
 
