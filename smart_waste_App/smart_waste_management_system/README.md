@@ -15,7 +15,7 @@
   <table>
     <tr>
       <td align="center"><img src="https://github.com/user-attachments/assets/a10e3097-92f9-48d7-95a7-dab6cb2e242c" width="160"/><br/><sub><b>Splash</b></sub></td>
-      <td align="center"><img src="https://github.com/user-attachments/assets/9ccacd75-ceff-4edd-b13f-3662fa62c18c" width="160"/><br/><sub><b>Auth</b></sub></td>
+      <td align="center"><img src="https://github.com/user-attachments/assets/d6c17204-b97d-450c-aab3-73a02e1714c2" width="160"/><br/><sub><b>Auth</b></sub></td>
       <td align="center"><img src="https://github.com/user-attachments/assets/6452d313-64e4-4bf6-aa1c-38e87d1a4969" width="160"/><br/><sub><b>Admin Dash</b></sub></td>
       <td align="center"><img src="https://github.com/user-attachments/assets/f99e54d8-efda-45b7-865d-94cda394c0ba" width="160"/><br/><sub><b>Citizen Dash</b></sub></td>
       <td align="center"><img src="https://github.com/user-attachments/assets/bff4aaf8-c97b-461f-bca1-a44ff2249215" width="160"/><br/><sub><b>Worker Dash</b></sub></td>
