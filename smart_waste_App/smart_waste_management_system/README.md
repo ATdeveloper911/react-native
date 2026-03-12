@@ -17,9 +17,12 @@
       <td align="center"><img src="https://github.com/user-attachments/assets/d6c17204-b97d-450c-aab3-73a02e1714c2" width="160"/><br/><sub><b>Splash</b></sub></td>
       <td align="center"><img src="https://github.com/user-attachments/assets/33adcb93-bd5c-4538-9aa2-62f31a24b9ee" width="160"/><br/><sub><b>Auth</b></sub></td>
       <td align="center"><img src="https://github.com/user-attachments/assets/d5c16fc4-4310-41a3-a407-ee69b95e7e1e" width="160"/><br/><sub><b>Admin Dash</b></sub></td>
+      <td align="center"><img src="https://github.com/user-attachments/assets/bff4aaf8-c97b-461f-bca1-a44ff2249215" width="160"/><br/><sub><b>admin overview</b></sub></td> 
       <td align="center"><img src="https://github.com/user-attachments/assets/f99e54d8-efda-45b7-865d-94cda394c0ba" width="160"/><br/><sub><b>Citizen Dash</b></sub></td>
       <td align="center"><img src="https://github.com/user-attachments/assets/bff4aaf8-c97b-461f-bca1-a44ff2249215" width="160"/><br/><sub><b>Worker Dash</b></sub></td>
-    </tr>
+      <img width="702" height="1600" alt="image" src="https://github.com/user-attachments/assets/19f0407c-e062-4405-a96c-a42bd5d34c27" />
+
+  </tr>
   </table>
 </div>
 
