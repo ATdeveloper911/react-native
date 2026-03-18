@@ -29,24 +29,13 @@ My engineering focus is on **Systemic Untethering**. I architect mobile-first ec
 * **Disruption**: Transforming mental health tracking into a compassionate, real-time companion synced with **Gemini AI Sentiment Analysis**.
 * **Key Tech**: React Native, Expo SDK, Google Gemini AI.
 
----
+### 🗑️ [Smart Waste Management](https://github.com/ATdeveloper911/react-native) | Environmental Logic
+* **Disruption**: Optimizing urban sanitation by implementing **QR code** and automated route coordination to eliminate overflowing collection points.
+* **Key Tech**: React Native, QR code , Google Maps API, Firebase Realtime.
 
-### 🗑️ [Smart Waste Management](https://github.com/ATdeveloper911/flutter-) | Environmental Logic
-* **Disruption**: Optimizing urban sanitation by implementing **real-time fill-level tracking** and automated route coordination to eliminate overflowing collection points.
-* **Key Tech**: Flutter, IoT Integration, Google Maps API, Firebase Realtime.
-
-### 💰 [Smart Budget Analyzer](https://github.com/ATdeveloper911/flutter-) | Financial Intelligence
+### 💰 [Smart Budget Analyzer](https://github.com/ATdeveloper911/react-native) | Financial Intelligence
 * **Disruption**: Transforming raw transaction data into actionable financial strategy through **automated categorization** and predictive spending alerts.
-* **Key Tech**: Flutter, SQLite (Local-First), Sync Logic, Data Visualization.
-
----
-
-### 🛠️ Why these updates fit your "Midnight" profile:
-* **Problem-Solver Framing**: Instead of just saying "it tracks trash," we use **"Optimizing urban sanitation"** to show you think about the big picture.
-* **Technical Depth**: Highlighting **"IoT Integration"** and **"Predictive spending"** proves you can handle data-heavy applications.
-* **Consistent Layout**: These follow the exact same bullet-point style as your other 7 projects, keeping the "Showreel" clean and professional.
-
-**Would you like me to add a "Technical Specs" table for these two new projects to show which specific State Management (Bloc, Provider, or Riverpod) you used?**
+* **Key Tech**: Ract Native, Supabase (storage) , Firebase(Authentication) Sync Logic, Data Visualization.
 
 ### ✈️ [Smart Travel Planner](https://www.google.com/search?q=./Smart_Travel_Planne_App) | AI Logistics
 
