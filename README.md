@@ -59,3 +59,5 @@ My engineering focus is on **Systemic Untethering**. I architect mobile-first ec
 
 
 ---
+
+## 📫 Connect with the Architect
