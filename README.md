@@ -19,7 +19,7 @@ My engineering focus is on **Systemic Untethering**. I architect mobile-first ec
 
 ## 📂 Repository Roadmap: The Mobile Ecosystems
 
-### 🏆 [Gold Bazar (GoldDesk)](https://www.google.com/search?q=./GOLD_BAZAR) | Fintech & Physics
+### 🏆 [Gold Bazar (GoldDesk)](https://github.com/ATdeveloper911/react-native/GOLD_BAZAR) | Fintech & Physics
 
 * **Disruption**: Moving lab-grade gold testing and **Tola/Masha/Ratti** conversion from a legacy desk terminal to a high-precision mobile OS.
 * **Key Tech**: React Native, Archimedes' Principle Engine, Firebase Fingerprinting.
@@ -37,7 +37,7 @@ My engineering focus is on **Systemic Untethering**. I architect mobile-first ec
 * **Disruption**: Transforming raw transaction data into actionable financial strategy through **automated categorization** and predictive spending alerts.
 * **Key Tech**: Ract Native, Supabase (storage) , Firebase(Authentication) Sync Logic, Data Visualization.
 
-### ✈️ [Smart Travel Planner](https://www.google.com/search?q=./Smart_Travel_Planne_App) | AI Logistics
+### ✈️ [Smart Travel Planner](https://github.com/ATdeveloper911/react-native/Smart_Travel_Planne_App) | AI Logistics
 
 * **Disruption**: Eliminating coordination friction in group travel through **Hybrid Budget Calculators** and AI guidance.
 * **Key Tech**: React Native, Google Maps Platform.
@@ -48,15 +48,6 @@ My engineering focus is on **Systemic Untethering**. I architect mobile-first ec
 * **Enterprise Synchronization**: Every app acts as a real-time "Handshake" with central web and desktop terminals.
 * **Scientific Precision**: Implementation of complex domain logic, from **fluid physics** to **traditional unit math**.
 * **Security & Accountability**: Enforcing **Device Fingerprinting** and **Audit Trails** at the mobile entry point.
-
----
-
-## 📫 Connect with the Architect
-
-* **Portfolio**: [asad-lime-six.vercel.app](https://asad-lime-six.vercel.app/)
-* **Contact**: [asadullah.devop@gmail.com](mailto:asadullah.devop@gmail.com)
-* **Status**: `MOBILITY_OPERATIONAL` 🟢
-
 
 ---
 
