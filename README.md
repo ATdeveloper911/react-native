@@ -24,7 +24,7 @@ My engineering focus is on **Systemic Untethering**. I architect mobile-first ec
 * **Disruption**: Moving lab-grade gold testing and **Tola/Masha/Ratti** conversion from a legacy desk terminal to a high-precision mobile OS.
 * **Key Tech**: React Native, Archimedes' Principle Engine, Firebase Fingerprinting.
 
-### 🧠 [Mind Space](https://www.google.com/search?q=./Mental-Rest-App) | AI Wellness
+### 🧠 [Mind Space](https://github.com/ATdeveloper911/react-native/tree/main/Mental-Rest_App/) | AI Wellness
 
 * **Disruption**: Transforming mental health tracking into a compassionate, real-time companion synced with **Gemini AI Sentiment Analysis**.
 * **Key Tech**: React Native, Expo SDK, Google Gemini AI.
