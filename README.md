@@ -19,25 +19,25 @@ My engineering focus is on **Systemic Untethering**. I architect mobile-first ec
 
 ## 📂 Repository Roadmap: The Mobile Ecosystems
 
-### 🏆 [Gold Bazar (GoldDesk)](https://github.com/ATdeveloper911/react-native/tree/main/GOLD_BAZAR/) | Fintech & Physics
+### 🏆 [Gold Bazar (GoldDesk)](https://github.com/asaddevx/react-native/tree/main/GOLD_BAZAR/) | Fintech & Physics
 
 * **Disruption**: Moving lab-grade gold testing and **Tola/Masha/Ratti** conversion from a legacy desk terminal to a high-precision mobile OS.
 * **Key Tech**: React Native, Archimedes' Principle Engine, Firebase Fingerprinting.
 
-### 🧠 [Mind Space](https://github.com/ATdeveloper911/react-native/tree/main/Mental-Rest_App/) | AI Wellness
+### 🧠 [Mind Space](https://github.com/asaddevx/react-native/tree/main/Mental-Rest_App/) | AI Wellness
 
 * **Disruption**: Transforming mental health tracking into a compassionate, real-time companion synced with **Gemini AI Sentiment Analysis**.
 * **Key Tech**: React Native, Expo SDK, Google Gemini AI.
 
-### 🗑️ [Smart Waste Management](https://github.com/ATdeveloper911/react-native/tree/main/smart_waste_App/smart_waste_management_system/) | Environmental Logic
+### 🗑️ [Smart Waste Management](https://github.com/asaddevx/react-native/tree/main/smart_waste_App/smart_waste_management_system/) | Environmental Logic
 * **Disruption**: Optimizing urban sanitation by implementing **QR code** and automated route coordination to eliminate overflowing collection points.
 * **Key Tech**: React Native, QR code , Google Maps API, Firebase Realtime.
 
-### 💰 [Smart Budget Analyzer](https://github.com/ATdeveloper911/react-native/tree/main/Smart_Budget_Analyzser/) | Financial Intelligence
+### 💰 [Smart Budget Analyzer](https://github.com/asaddevx/react-native/tree/main/Smart_Budget_Analyzser/) | Financial Intelligence
 * **Disruption**: Transforming raw transaction data into actionable financial strategy through **automated categorization** and predictive spending alerts.
 * **Key Tech**: Ract Native, Supabase (storage) , Firebase(Authentication) Sync Logic, Data Visualization.
 
-### ✈️ [Smart Travel Planner](https://github.com/ATdeveloper911/react-native/tree/main/Smart_Travel_Planne_App/) | AI Logistics
+### ✈️ [Smart Travel Planner](https://github.com/asaddevx/react-native/tree/main/Smart_Travel_Planne_App/) | AI Logistics
 
 * **Disruption**: Eliminating coordination friction in group travel through **Hybrid Budget Calculators** and AI guidance.
 * **Key Tech**: React Native, Google Maps Platform.
