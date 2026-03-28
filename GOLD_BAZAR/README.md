@@ -126,12 +126,6 @@ Currently, the local gold testing industry is paralyzed by decade-old, offline l
 
 ## 📫 Connect with the Architect
 
-* **Portfolio**: [asad-lime-six.vercel.app](https://asad-lime-six.vercel.app/)
-* **Contact**: [asadullah.devop@gmail.com](mailto:asadullah.devop@gmail.com)
-* **Status**: `MOBILITY_OPERATIONAL` 🟢
----
-## 📫 Connect with the Architect
-
 <div align="center">
   <p><strong>SYSTEMS_STATUS: ReactNative_System_OPERATIONAL 🟢</strong></p>
   <p>Let's build something disruptive. 🚀</p>
