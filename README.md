@@ -81,6 +81,7 @@ Built with focus on **performance, maintainability, and delightful user experien
   <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
   <img src="https://img.shields.io/badge/Reanimated-FF6F00?style=for-the-badge" alt="Reanimated" />
   <img src="https://img.shields.io/badge/Zustand-FF4081?style=for-the-badge" alt="Zustand" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
   
