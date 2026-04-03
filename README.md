@@ -55,7 +55,10 @@ My engineering focus is on **Systemic Untethering**. I architect mobile-first ec
   <!-- 1. Repository Stats Card (Best working version for single repo) -->
   <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=asaddevx&repo=react-native&theme=tokyonight&hide_border=true&bg_color=0a192f&border_radius=20" alt="react-native Repo Stats" />
 </p>
-
+<p align="center">
+  <!-- 2. Top Languages in this Repository -->
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=asaddevx&repo=react-native&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a192f&border_radius=20&langs_count=8" alt="Top Languages in react-native" />
+</p>
 ---
 
 ## 📫 Connect with the Architect
