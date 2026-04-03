@@ -58,6 +58,13 @@ My engineering focus is on **Systemic Untethering**. I architect mobile-first ec
   <!-- 2. Top Languages in this Repository -->
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=asaddevx&repo=react-native&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a192f&border_radius=20&langs_count=8" alt="Top Languages in react-native" />
 </p>
+
+<p align="center">
+  <!-- 3. Beautiful Tech Stack Badges (React Native Focused) -->
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  
 ---
 
 ## 📫 Connect with the Architect
