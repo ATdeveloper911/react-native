@@ -49,6 +49,14 @@ My engineering focus is on **Systemic Untethering**. I architect mobile-first ec
 * **Scientific Precision**: Implementation of complex domain logic, from **fluid physics** to **traditional unit math**.
 * **Security & Accountability**: Enforcing **Device Fingerprinting** and **Audit Trails** at the mobile entry point.
 ---
+## ✨ Key Highlights
+
+- **Fully TypeScript-First Architecture** — Strict type safety and modern React Native patterns
+- **Offline-First & Local-First Design** — Seamless experience even without internet
+- **High-Performance UI** — Optimized with Reanimated 3, Gesture Handler, and FlashList
+- **Real-time Capabilities** — Socket.IO integration for live updates
+
+---
 ## 📊 Repository Analytics
 
 <p align="center">
