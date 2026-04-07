@@ -128,6 +128,10 @@ Currently, the local gold testing industry is paralyzed by decade-old, offline l
 - **Interactive Physics-Based Laboratory Suite** — Real-time simulation of Archimedes’ Principle with accurate buoyancy, density, and volume calculations
 - **Educational & Practical Lab Tool** — Designed for students and researchers to understand and experiment with fluid mechanics and classical physics
 - **Traditional Weight Conversion System** — Comprehensive unit converter for scientific and commercial weight measurements
+- **Cross-Platform Excellence** — Beautiful, responsive UI that runs smoothly on both iOS and Android
+- **Realistic Physics Engine** — High-fidelity simulation with visual feedback and precise mathematical modeling
+- **Modern React Native Architecture** — Built with TypeScript, clean code practices, and production-ready patterns
+- **MERN Backend Integration** — Full-stack capability for saving experiments, results, and user progress
 
 ---
 
