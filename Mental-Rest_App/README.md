@@ -70,6 +70,10 @@ app/
 ├── community/    # Community Feed & Interaction logic
 └── services/     # AI, Firebase, and Photo processing logic
 ```
+
+## ✨ Mental-Rest App Key Highlights
+
+---
 ## 📊 Project Analytics
 
 <p align="center">
