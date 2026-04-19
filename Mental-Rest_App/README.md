@@ -1,5 +1,4 @@
-# react-native
-MERN STACK  developer...
+
 # 🧠 Mind Space
 
 [![Expo](https://img.shields.io/badge/Expo-54.0.12-blue?logo=expo&logoColor=white)](https://expo.dev/)
