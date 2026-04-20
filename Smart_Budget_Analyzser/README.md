@@ -477,6 +477,9 @@ feedback: {
 - **Visual Spending Insights** — Beautiful interactive charts and graphs to analyze spending patterns
 - **Smart Budget Planning** — Set monthly budgets with automatic alerts when approaching limits
 - **Transaction Categorization** — Easy categorization with custom tags and search functionality
+- **Modern TypeScript Architecture** — Clean, type-safe code with Zustand for efficient state management
+- **Smooth Animations & UX** — Delightful user experience with Reanimated and modern UI components
+- **Offline Support** — Works reliably even with limited connectivity using Firebase caching
 
 ---
 ## 📊 Project Analytics
