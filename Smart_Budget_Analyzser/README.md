@@ -470,6 +470,11 @@ feedback: {
 ---
 ## 📊 Project Analytics
 
+<p align="center">
+  <!-- Smart Budget Analyser Project Stats -->
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=asaddevx&repo=react-native&theme=tokyonight&hide_border=true&bg_color=0a192f&border_radius=20" alt="Smart Budget Analyser Project Stats" />
+</p>
+
 ---
 ## 📫 Connect with the Architect
 
