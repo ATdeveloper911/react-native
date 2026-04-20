@@ -483,7 +483,11 @@ feedback: {
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
   <img src="https://img.shields.io/badge/Zustand-FF4081?style=for-the-badge" alt="Zustand" />
-  
+  <img src="https://img.shields.io/badge/Reanimated-FF6F00?style=for-the-badge" alt="Reanimated" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
+  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge" alt="Charts" />
+</p>
+
 ---
 ## 📫 Connect with the Architect
 
