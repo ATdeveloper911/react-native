@@ -481,6 +481,7 @@ feedback: {
 - **Smooth Animations & UX** — Delightful user experience with Reanimated and modern UI components
 - **Offline Support** — Works reliably even with limited connectivity using Firebase caching
 
+A practical and visually appealing finance management app that demonstrates strong React Native + Firebase skills with focus on user-friendly financial insights.
 ---
 ## 📊 Project Analytics
 
