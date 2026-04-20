@@ -472,6 +472,10 @@ feedback: {
 
 ## ✨ Smart Budget Analyser Key Highlights
 
+- **Intelligent Personal Finance Tracker** — A smart React Native mobile app that helps users manage their income, expenses, and budget effectively
+- **Firebase Backend Integration** — Real-time data synchronization, authentication, and cloud storage
+- **Visual Spending Insights** — Beautiful interactive charts and graphs to analyze spending patterns
+
 ---
 ## 📊 Project Analytics
 
