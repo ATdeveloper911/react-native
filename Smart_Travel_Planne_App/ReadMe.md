@@ -69,6 +69,7 @@ src/
 - **Real-Time Recommendations** — Weather forecasts, cost estimates, and location-based suggestions powered by AI
 - **Budget Optimization** — Smart expense planner that helps users stay within their travel budget
 - **Modern React Native Architecture** — Built with TypeScript, Zustand, and clean, scalable code
+- **Smooth Animations & UX** — Delightful user experience with Reanimated for fluid interactions
 
 ---
 ## 📊 Project Analytics
