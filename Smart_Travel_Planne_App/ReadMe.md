@@ -63,6 +63,9 @@ src/
 ```
 ## ✨ Smart Travel Planner App Key Highlights
 
+- **AI-Powered Smart Travel Planner** — Intelligent React Native mobile app that generates personalized travel itineraries using Gemini AI
+- **Smart Itinerary Generation** — Creates complete day-by-day travel plans based on destination, budget, duration, preferences, and interests
+
 ---
 ## 📊 Project Analytics
 <p align="center">
