@@ -61,6 +61,7 @@ src/
 └── utils/        # PDF Generation & Data export logic
 
 ```
+## 📊 Project Analytics
 
 ---
 ## 📫 Connect with the Architect
