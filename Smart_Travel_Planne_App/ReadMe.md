@@ -67,6 +67,7 @@ src/
 - **Smart Itinerary Generation** — Creates complete day-by-day travel plans based on destination, budget, duration, preferences, and interests
 - **Interactive Maps Integration** — Beautiful Mapbox-powered maps to visualize routes, attractions, and trip highlights
 - **Real-Time Recommendations** — Weather forecasts, cost estimates, and location-based suggestions powered by AI
+- **Budget Optimization** — Smart expense planner that helps users stay within their travel budget
 
 ---
 ## 📊 Project Analytics
