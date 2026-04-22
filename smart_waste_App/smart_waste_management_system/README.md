@@ -64,7 +64,6 @@
 ---
 ## ✨ Smart Waste Management System Key Highlights
 
-- **AI-Powered Waste Collection Optimization** — Intelligent React Native mobile app that uses Gemini AI to optimize collection routes and predict bin fill-levels
 - **Real-Time Bin Monitoring** — Live status updates for waste bins with fill-level sensors and overflow alerts
 - **Dynamic Route Planning** — Reduces fuel consumption and collection time by 30-40% using AI-driven route optimization
 - **Offline-First Architecture** — Drivers can log collections without internet; data syncs automatically when back online
@@ -87,7 +86,6 @@ A complete municipal waste management solution that reduces operational costs, i
 <p align="center">
   <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields .io/badge/Gemini_AI-8E75FF?style=for-the-badge" alt="Gemini AI" />
   <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
   <img src="https://img.shields.io/badge/Zustand-FF4081?style=for-the-badge" alt="Zustand" />
