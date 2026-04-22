@@ -72,6 +72,7 @@
 - **Multi-Role Dashboard** — Dedicated interfaces for Admins, Collection Drivers, and Residents with granular permissions
 - **Weight-Based Billing Engine** — Automated invoice generation based on actual waste weight with dynamic pricing
 - **Modern React Native Architecture** — Built with TypeScript, Zustand, React Query, and clean, scalable code
+- **Real-Time Fleet Tracking** — Live driver location and ETA updates using MapLibre GL
 
 ---
 ## 📊 Project Analytics
