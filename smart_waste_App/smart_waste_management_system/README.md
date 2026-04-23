@@ -12,23 +12,27 @@
 ## 📱 App Gallery
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center"><img src="https://github.com/user-attachments/assets/d6c17204-b97d-450c-aab3-73a02e1714c2" width="160"/><br/><sub><b>Splash</b></sub></td>
-      <td align="center"><img src="https://github.com/user-attachments/assets/33adcb93-bd5c-4538-9aa2-62f31a24b9ee" width="160"/><br/><sub><b>Auth</b></sub></td>
-      <td align="center"><img src="https://github.com/user-attachments/assets/d5c16fc4-4310-41a3-a407-ee69b95e7e1e" width="160"/><br/><sub><b>Admin Dash</b></sub></td>
-      <td align="center"><img src="https://github.com/user-attachments/assets/19f0407c-e062-4405-a96c-a42bd5d34c27" width="160"/><br/><sub><b>admin overview</b></sub></td> 
-      <td align="center"><img src="https://github.com/user-attachments/assets/f99e54d8-efda-45b7-865d-94cda394c0ba" width="160"/><br/><sub><b>Citizen Dash</b></sub></td>
-      <td align="center"><img src="https://github.com/user-attachments/assets/bff4aaf8-c97b-461f-bca1-a44ff2249215" width="160"/><br/><sub><b>Worker Dash</b></sub></td>
-    analytics1:
-    <img width="719" height="1587" alt="WhatsApp Image 2026-04-16 at 4 28 01 PM" src="https://github.com/user-attachments/assets/4e9c6546-b66e-4f99-8e32-82089fa36baa" />
-    analytics2:
-      <img width="720" height="1203" alt="WhatsApp Image 2026-04-16 at 4 28 13 PM" src="https://github.com/user-attachments/assets/f0b8d9df-c65e-48a9-a5ec-5942d95808a2" />
-   analytics3:
-      <img width="585" height="1280" alt="WhatsApp Image 2026-04-16 at 4 20 40 PM" src="https://github.com/user-attachments/assets/0e88d6e1-3b7b-4280-9fc1-fb21106fdd94" />
 
-  </tr>
-  </table>
+### 📸 Complete App Experience
+
+| Splash Screen | Authentication | Admin Dashboard |
+|:---:|:---:|:---:|
+| <img src="https://github.com/user-attachments/assets/d6c17204-b97d-450c-aab3-73a02e1714c2" width="200" style="border-radius: 15px; border: 2px solid #e0e0e0; box-shadow: 0 5px 15px rgba(0,0,0,0.1);"> | <img src="https://github.com/user-attachments/assets/33adcb93-bd5c-4538-9aa2-62f31a24b9ee" width="200" style="border-radius: 15px; border: 2px solid #e0e0e0; box-shadow: 0 5px 15px rgba(0,0,0,0.1);"> | <img src="https://github.com/user-attachments/assets/d5c16fc4-4310-41a3-a407-ee69b95e7e1e" width="200" style="border-radius: 15px; border: 2px solid #e0e0e0; box-shadow: 0 5px 15px rgba(0,0,0,0.1);"> |
+
+| Admin Overview | Citizen Dashboard | Worker Dashboard |
+|:---:|:---:|:---:|
+| <img src="https://github.com/user-attachments/assets/19f0407c-e062-4405-a96c-a42bd5d34c27" width="200" style="border-radius: 15px; border: 2px solid #e0e0e0; box-shadow: 0 5px 15px rgba(0,0,0,0.1);"> | <img src="https://github.com/user-attachments/assets/f99e54d8-efda-45b7-865d-94cda394c0ba" width="200" style="border-radius: 15px; border: 2px solid #e0e0e0; box-shadow: 0 5px 15px rgba(0,0,0,0.1);"> | <img src="https://github.com/user-attachments/assets/bff4aaf8-c97b-461f-bca1-a44ff2249215" width="200" style="border-radius: 15px; border: 2px solid #e0e0e0; box-shadow: 0 5px 15px rgba(0,0,0,0.1);"> |
+
+### 📊 Analytics Suite
+
+| Analytics Overview | Analytics Dashboard | Advanced Analytics |
+|:---:|:---:|:---:|
+| <img src="https://github.com/user-attachments/assets/4e9c6546-b66e-4f99-8e32-82089fa36baa" width="200" style="border-radius: 15px; border: 2px solid #e0e0e0; box-shadow: 0 5px 15px rgba(0,0,0,0.1);"> | <img src="https://github.com/user-attachments/assets/f0b8d9df-c65e-48a9-a5ec-5942d95808a2" width="200" style="border-radius: 15px; border: 2px solid #e0e0e0; box-shadow: 0 5px 15px rgba(0,0,0,0.1);"> | <img src="https://github.com/user-attachments/assets/0e88d6e1-3b7b-4280-9fc1-fb21106fdd94" width="200" style="border-radius: 15px; border: 2px solid #e0e0e0; box-shadow: 0 5px 15px rgba(0,0,0,0.1);"> |
+
+<br>
+
+*✨ A comprehensive platform for all user roles with powerful analytics ✨*
+
 </div>
 
 ---
