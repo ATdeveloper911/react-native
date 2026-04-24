@@ -40,6 +40,11 @@
       <br><b>📚 Resources Hub</b>
       <br><sub>Learning materials</sub>
      </td>
+      <td align="center">
+      <img src="https://github.com/user-attachments/assets/ec7fc7f3-5adb-4255-81ef-bd96e1108c90" width="200" style="border-radius: 20px; border: 3px solid #D0029B; box-shadow: 0 10px 20px rgba(208,2,155,0.2);">
+      <br><b>📝 Journal Entry</b>
+      <br><sub>Personal reflections</sub>
+     </td>
      
     
 ---
