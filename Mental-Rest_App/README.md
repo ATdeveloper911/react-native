@@ -9,7 +9,11 @@
 **Mind Space** is a sophisticated mental wellness ecosystem built with React Native. It combines AI-driven therapy insights, mood analytics, and a supportive community to help users navigate their mental health journey with precision and privacy.
 
 ---
+## 📸 App Preview
 
+<div align="center">
+
+### 🎨 App Experience Gallery
 
 ---
 
