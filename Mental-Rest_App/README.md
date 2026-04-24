@@ -57,7 +57,14 @@
       <br><b>👤 Profile Management</b>
       <br><sub>Personal settings & preferences</sub>
      </td>
-     
+     </tr>
+  <tr>
+    <td colspan="3" align="center">
+      <br>
+      <sub>✨ Every feature designed for your mental wellness journey ✨</sub>
+     </td>
+  </tr>
+  
     
 ---
 
