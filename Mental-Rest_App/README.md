@@ -10,30 +10,6 @@
 
 ---
 
-## 📸 App Preview
-
-<div align="center">
-  <table style="border: none;">
-    <tr>
-      <td><img src="https://github.com/user-attachments/assets/f3bb78f3-adca-4823-8fba-0c1c685d7344" width="120" alt="Home"/></td>
-      <td><img src="https://github.com/user-attachments/assets/fb7f5268-e194-4233-a2ac-e4ff55d39e84" width="120" alt="Mood"/></td>
-      <td><img src="https://github.com/user-attachments/assets/29292a8a-7e28-4f87-b857-72a0fdce42ea" width="120" alt="AI Chat"/></td>
-      <td><img src="https://github.com/user-attachments/assets/d3f6ee33-094b-45aa-b1b8-532d0192a3f9" width="120" alt="Resources"/></td>
-      <td><img src="https://github.com/user-attachments/assets/ec7fc7f3-5adb-4255-81ef-bd96e1108c90" width="120" alt="Journal"/></td>
-      <td><img src="https://github.com/user-attachments/assets/49709643-0a5c-4671-8bde-fcb09f7add08" width="120" alt="Community"/></td>
-      <td><img src="https://github.com/user-attachments/assets/cda5e3bf-8e8e-442f-b632-86dc1ed5375e" width="120" alt="Profile"/></td>
-    </tr>
-    <tr align="center">
-      <td><b>Home</b></td>
-      <td><b>Mood</b></td>
-      <td><b>AI Chat</b></td>
-      <td><b>Resources</b></td>
-      <td><b>Journal</b></td>
-      <td><b>Community</b></td>
-      <td><b>Profile</b></td>
-    </tr>
-  </table>
-</div>
 
 ---
 
