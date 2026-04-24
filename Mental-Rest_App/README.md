@@ -45,7 +45,13 @@
       <br><b>📝 Journal Entry</b>
       <br><sub>Personal reflections</sub>
      </td>
-     
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/49709643-0a5c-4671-8bde-fcb09f7add08" width="200" style="border-radius: 20px; border: 3px solid #FF6B6B; box-shadow: 0 10px 20px rgba(255,107,107,0.2);">
+      <br><b>👥 Community</b>
+      <br><sub>Connect & share</sub>
+     </td>
+  </tr>
+  
     
 ---
 
