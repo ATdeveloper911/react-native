@@ -25,9 +25,15 @@
      </td>
      <td align="center" width="33%">
       <img src="https://github.com/user-attachments/assets/fb7f5268-e194-4233-a2ac-e4ff55d39e84" width="200" style="border-radius: 20px; border: 3px solid #50E3C2; box-shadow: 0 10px 20px rgba(80,227,194,0.2);">
-       <br><b>😊 Mood Tracker</b>
+     <br><b>😊 Mood Tracker</b>
       <br><sub>Emotional wellness</sub>
      </td>
+    <td align="center" width="33%">
+      <img src="https://github.com/user-attachments/assets/29292a8a-7e28-4f87-b857-72a0fdce42ea" width="200" style="border-radius: 20px; border: 3px solid #F5A623; box-shadow: 0 10px 20px rgba(245,166,35,0.2);">
+      <br><b>🤖 AI Assistant</b>
+      <br><sub>Smart conversations</sub>
+     </td>
+  </tr>
     
 ---
 
