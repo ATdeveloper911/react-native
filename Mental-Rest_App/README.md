@@ -23,7 +23,9 @@
         <br><b>🏠 Home Screen</b>
       <br><sub>Dashboard overview</sub>
      </td>
-    
+     <td align="center" width="33%">
+      <img src="https://github.com/user-attachments/assets/fb7f5268-e194-4233-a2ac-e4ff55d39e84" width="200" style="border-radius: 20px; border: 3px solid #50E3C2; box-shadow: 0 10px 20px rgba(80,227,194,0.2);">
+       
 ---
 
 ## 🚀 Key Features
