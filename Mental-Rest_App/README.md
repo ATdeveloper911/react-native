@@ -30,7 +30,7 @@
 *✨ Your complete wellness companion ✨*
 
 </div>
----
+
 
 ## 🚀 Key Features
 
