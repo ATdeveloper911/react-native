@@ -49,7 +49,20 @@
      </td>
     <td align="center" width="33%" style="padding: 15px;">
       <div style="background: linear-gradient(135deg, #fa709a 0%, #fee140 100%); border-radius: 20px; padding: 5px;">
-        
+         <img src="https://github.com/user-attachments/assets/ed1c90f5-4a4a-4121-a985-6aa90dafa35a" width="200" style="border-radius: 18px; display: block; margin: 0 auto;">
+      </div>
+      <br><b style="font-size: 16px;">🤖 AI Chat</b>
+      <br><sub style="color: #666;">Smart travel assistant</sub>
+     </td>
+    <td align="center" width="33%" style="padding: 15px;">
+      <div style="background: linear-gradient(135deg, #a8edea 0%, #fed6e3 100%); border-radius: 20px; padding: 5px;">
+        <img src="https://github.com/user-attachments/assets/4efb410f-1f30-4851-a318-904fa49d72b8" width="200" style="border-radius: 18px; display: block; margin: 0 auto;">
+      </div>
+      <br><b style="font-size: 16px;">👤 Profile</b>
+      <br><sub style="color: #666;">Manage your preferences</sub>
+     </td>
+  </tr>
+  
 ---
 
 ## 🌟 Top-Tier Features
