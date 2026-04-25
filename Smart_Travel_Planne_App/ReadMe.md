@@ -21,7 +21,9 @@
       <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 20px; padding: 5px;">
         <img src="https://github.com/user-attachments/assets/d19dc026-4b7b-4170-b755-802afd24fa9e" width="200" style="border-radius: 18px; display: block; margin: 0 auto;">
       </div>
-      
+      <br><b style="font-size: 16px;">🔐 Login</b>
+      <br><sub style="color: #666;">Secure access to your account</sub>
+     </td>
 ---
 
 ## 🌟 Top-Tier Features
