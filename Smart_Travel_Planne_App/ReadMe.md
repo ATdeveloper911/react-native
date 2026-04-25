@@ -24,6 +24,9 @@
       <br><b style="font-size: 16px;">🔐 Login</b>
       <br><sub style="color: #666;">Secure access to your account</sub>
      </td>
+    <td align="center" width="33%" style="padding: 15px;">
+      <div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); border-radius: 20px; padding: 5px;">
+        
 ---
 
 ## 🌟 Top-Tier Features
