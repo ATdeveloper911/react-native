@@ -27,7 +27,9 @@
     <td align="center" width="33%" style="padding: 15px;">
       <div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); border-radius: 20px; padding: 5px;">
         <img src="https://github.com/user-attachments/assets/1df9e3b5-b9ce-45d2-bd27-ca88d00e24fb" width="200" style="border-radius: 18px; display: block; margin: 0 auto;">
-        
+        </div>
+      <br><b style="font-size: 16px;">🏠 Home</b>
+      
 ---
 
 ## 🌟 Top-Tier Features
