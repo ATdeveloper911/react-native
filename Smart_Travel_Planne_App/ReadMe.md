@@ -12,18 +12,7 @@
 ## 📱 Experience the App
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center"><img src="https://github.com/user-attachments/assets/d19dc026-4b7b-4170-b755-802afd24fa9e" width="150"/><br/><sub><b>Login</b></sub></td>
-      <td align="center"><img src="https://github.com/user-attachments/assets/1df9e3b5-b9ce-45d2-bd27-ca88d00e24fb" width="150"/><br/><sub><b>Home</b></sub></td>
-      <td align="center"><img src="https://github.com/user-attachments/assets/c1fbf638-f9ca-40a5-87fd-216098e55008" width="150"/><br/><sub><b>Search</b></sub></td>
-      <td align="center"><img src="https://github.com/user-attachments/assets/f9126893-c47a-4183-84df-89ece03c1944" width="150"/><br/><sub><b>Trips</b></sub></td>
-      <td align="center"><img src="https://github.com/user-attachments/assets/ed1c90f5-4a4a-4121-a985-6aa90dafa35a" width="150"/><br/><sub><b>AI Chat</b></sub></td>
-      <td align="center"><img src="https://github.com/user-attachments/assets/4efb410f-1f30-4851-a318-904fa49d72b8" width="150"/><br/><sub><b>Profile</b></sub></td>
-    </tr>
-  </table>
-</div>
-
+  
 ---
 
 ## 🌟 Top-Tier Features
