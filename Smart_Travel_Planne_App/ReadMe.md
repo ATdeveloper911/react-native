@@ -9,14 +9,25 @@
 
 ---
 
-#📱 Experience the App
-<div align="center">
-  
-#✨ App Journey Showcase
-  
-##Screen Gallery (3x2 Grid)
+## 📱 Experience the App
 
-<table style="border: none; width: 100%;"> <tr> <td align="center" width="33%"> <img src="https://github.com/user-attachments/assets/d19dc026-4b7b-4170-b755-802afd24fa9e" width="200" style="border-radius: 20px; border: 3px solid #4A90E2; box-shadow: 0 10px 20px rgba(74,144,226,0.2);"> <br><b>🔐 Login</b> <br><sub>Secure authentication</sub> </td> <td align="center" width="33%"> <img src="https://github.com/user-attachments/assets/1df9e3b5-b9ce-45d2-bd27-ca88d00e24fb" width="200" style="border-radius: 20px; border: 3px solid #50E3C2; box-shadow: 0 10px 20px rgba(80,227,194,0.2);"> <br><b>🏠 Home</b> <br><sub>Dashboard overview</sub> </td> <td align="center" width="33%"> <img src="https://github.com/user-attachments/assets/c1fbf638-f9ca-40a5-87fd-216098e55008" width="200" style="border-radius: 20px; border: 3px solid #F5A623; box-shadow: 0 10px 20px rgba(245,166,35,0.2);"> <br><b>🔍 Search</b> <br><sub>Find destinations</sub> </td> </tr> <tr> <td align="center"> <img src="https://github.com/user-attachments/assets/f9126893-c47a-4183-84df-89ece03c1944" width="200" style="border-radius: 20px; border: 3px solid #7ED321; box-shadow: 0 10px 20px rgba(126,211,33,0.2);"> <br><b>✈️ Trips</b> <br><sub>Plan your journey</sub> </td> <td align="center"> <img src="https://github.com/user-attachments/assets/ed1c90f5-4a4a-4121-a985-6aa90dafa35a" width="200" style="border-radius: 20px; border: 3px solid #D0029B; box-shadow: 0 10px 20px rgba(208,2,155,0.2);"> <br><b>🤖 AI Chat</b> <br><sub>Smart assistant</sub> </td> <td align="center"> <img src="https://github.com/user-attachments/assets/4efb410f-1f30-4851-a318-904fa49d72b8" width="200" style="border-radius: 20px; border: 3px solid #9B59B6; box-shadow: 0 10px 20px rgba(155,89,182,0.2);"> <br><b>👤 Profile</b> <br><sub>Your account</sub> </td> </tr> <tr> <td colspan="3" align="center"> <br> <sub>✨ Seamless travel experience from login to exploring the world ✨</sub> </td> </tr> </table></div>
+<div align="center">
+
+| Login | Home | Search |
+|:---:|:---:|:---:|
+| <img src="https://github.com/user-attachments/assets/d19dc026-4b7b-4170-b755-802afd24fa9e" width="200" style="border-radius: 15px; border: 2px solid #e0e0e0; box-shadow: 0 5px 15px rgba(0,0,0,0.1);"> | <img src="https://github.com/user-attachments/assets/1df9e3b5-b9ce-45d2-bd27-ca88d00e24fb" width="200" style="border-radius: 15px; border: 2px solid #e0e0e0; box-shadow: 0 5px 15px rgba(0,0,0,0.1);"> | <img src="https://github.com/user-attachments/assets/c1fbf638-f9ca-40a5-87fd-216098e55008" width="200" style="border-radius: 15px; border: 2px solid #e0e0e0; box-shadow: 0 5px 15px rgba(0,0,0,0.1);"> |
+| **Secure Authentication** | **Dashboard Overview** | **Find Destinations** |
+
+| Trips | AI Chat | Profile |
+|:---:|:---:|:---:|
+| <img src="https://github.com/user-attachments/assets/f9126893-c47a-4183-84df-89ece03c1944" width="200" style="border-radius: 15px; border: 2px solid #e0e0e0; box-shadow: 0 5px 15px rgba(0,0,0,0.1);"> | <img src="https://github.com/user-attachments/assets/ed1c90f5-4a4a-4121-a985-6aa90dafa35a" width="200" style="border-radius: 15px; border: 2px solid #e0e0e0; box-shadow: 0 5px 15px rgba(0,0,0,0.1);"> | <img src="https://github.com/user-attachments/assets/4efb410f-1f30-4851-a318-904fa49d72b8" width="200" style="border-radius: 15px; border: 2px solid #e0e0e0; box-shadow: 0 5px 15px rgba(0,0,0,0.1);"> |
+| **Plan Your Journey** | **Smart Assistant** | **Your Account** |
+
+<br>
+
+*✨ Your ultimate travel companion for unforgettable adventures ✨*
+
+</div>
 
 ---
 
