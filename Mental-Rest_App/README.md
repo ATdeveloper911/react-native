@@ -19,6 +19,10 @@ Millions of people struggle silently with their mental health every day. The bar
 - ⏰ **No 24/7 Support** — Mental health crises don't follow business hours
 - 🔐 **Privacy Concerns** — People fear their most vulnerable thoughts being exposed or sold
 
+> *The result?* Silent suffering, delayed intervention, and preventable crises.
+
+---
+
 ---
 ## 📸 App Preview
 
