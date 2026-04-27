@@ -38,6 +38,8 @@ Millions of people struggle silently with their mental health every day. The bar
 
 - **AI That Listens, Not Just Responds** — Gemini AI doesn't give generic advice. It analyzes sentiment patterns and offers context-aware guidance tailored to your emotional state.
 - **Crisis Detection** — When language indicates severe distress, the app immediately surfaces emergency helplines and local resources.
+- **Your Data, Your Rules** — Journal entries are encrypted. Community posts can be anonymous. Biometric lock keeps curious eyes away.
+- **From Loneliness to Belonging** — The AI-moderated community ensures supportive interactions while filtering harmful content.
 
 ---
 ## 📸 App Preview
