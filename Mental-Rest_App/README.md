@@ -34,6 +34,10 @@ Millions of people struggle silently with their mental health every day. The bar
 | **24/7 Support** | AI companion available anytime, anywhere |
 | **Privacy** | Biometric lock + encrypted journal entries + Firebase security rules |
 
+### 🧠 What Makes Mind Space Different?
+
+- **AI That Listens, Not Just Responds** — Gemini AI doesn't give generic advice. It analyzes sentiment patterns and offers context-aware guidance tailored to your emotional state.
+
 ---
 ## 📸 App Preview
 
