@@ -30,6 +30,8 @@ Millions of people struggle silently with their mental health every day. The bar
 |:--------|:-------------|
 | **Stigma** | Anonymous community posting + optional identity hiding |
 | **Cost** | 100% free AI-powered therapy companion (Gemini AI) |
+| **Fragmentation** | All-in-one: Mood + Journal + Chat + Resources + Community |
+| **24/7 Support** | AI companion available anytime, anywhere |
 
 ---
 ## 📸 App Preview
