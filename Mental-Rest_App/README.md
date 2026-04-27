@@ -11,6 +11,10 @@
 
 ## 🎯 The Problem We Saw
 
+Millions of people struggle silently with their mental health every day. The barriers are real:
+
+- 😰 **Stigma & Judgment** — Fear of being labeled "weak" prevents people from seeking help
+
 ---
 ## 📸 App Preview
 
