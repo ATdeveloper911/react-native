@@ -22,6 +22,9 @@ Millions of people struggle silently with their mental health every day. The bar
 > *The result?* Silent suffering, delayed intervention, and preventable crises.
 
 ---
+## 💡 The Solution We Built
+
+**Mind Space** is not just another wellness app — it's a **complete mental ecosystem** designed to remove every barrier mentioned above:
 
 ---
 ## 📸 App Preview
