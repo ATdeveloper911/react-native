@@ -37,6 +37,7 @@ Millions of people struggle silently with their mental health every day. The bar
 ### 🧠 What Makes Mind Space Different?
 
 - **AI That Listens, Not Just Responds** — Gemini AI doesn't give generic advice. It analyzes sentiment patterns and offers context-aware guidance tailored to your emotional state.
+- **Crisis Detection** — When language indicates severe distress, the app immediately surfaces emergency helplines and local resources.
 
 ---
 ## 📸 App Preview
