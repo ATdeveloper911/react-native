@@ -26,6 +26,11 @@ Millions of people struggle silently with their mental health every day. The bar
 
 **Mind Space** is not just another wellness app — it's a **complete mental ecosystem** designed to remove every barrier mentioned above:
 
+| Problem | Our Solution |
+|:--------|:-------------|
+| **Stigma** | Anonymous community posting + optional identity hiding |
+| **Cost** | 100% free AI-powered therapy companion (Gemini AI) |
+
 ---
 ## 📸 App Preview
 
