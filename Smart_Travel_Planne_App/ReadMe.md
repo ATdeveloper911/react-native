@@ -26,6 +26,9 @@ Planning a trip is often more stressful than the job you're trying to escape. Tr
 
 **Smart Travel Planner** is the operating system for your journey. It collapses the entire travel workflow into a single, AI-powered cockpit.
 
+| Problem | Our Solution |
+|:--------|:-------------|
+
 ---
 
 ## 📱 Experience the App
