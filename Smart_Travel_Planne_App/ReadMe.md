@@ -16,6 +16,8 @@ Planning a trip is often more stressful than the job you're trying to escape. Tr
 - ⏱️ **Analysis Paralysis** — Juggling 15+ browser tabs for flights, hotels, car rentals, and things to do is overwhelming and time-consuming.
 - 💸 **Budget Blowout** — Hidden costs, dynamic pricing, and currency conversions make it nearly impossible to stick to a financial plan.
 - 📱 **App Fatigue** — You need one app for flights, another for hotels, another for weather, and a spreadsheet to track it all.
+- 🗺️ **The "Unknown"** — Arriving in a new city with no sense of direction, weather, or local customs is intimidating.
+- 🔐 **Security Risks** — Entering payment details into multiple, unvetted booking sites is a gamble.
 
 ---
 
