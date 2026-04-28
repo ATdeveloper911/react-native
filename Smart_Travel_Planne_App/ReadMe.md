@@ -37,6 +37,7 @@ Planning a trip is often more stressful than the job you're trying to escape. Tr
 ### 🧠 What Makes Smart Travel Planner Different?
 
 - **AI That Plans, Not Just Searches** — Google Gemini AI doesn't just find flights. It builds a **complete day-by-day itinerary** based on your budget, interests, and duration.
+- **Wallet-Native Architecture** — Your travel budget isn't an afterthought. The digital wallet is core to the experience, enabling automated payments and real-time cost tracking.
 
 ---
 
