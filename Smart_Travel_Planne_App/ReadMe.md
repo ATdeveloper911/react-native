@@ -22,6 +22,9 @@ Planning a trip is often more stressful than the job you're trying to escape. Tr
 > *The result?* Hours lost, money wasted, and a feeling of dread before the vacation even begins.
 
 ---
+## 💡 The Solution We Built
+
+**Smart Travel Planner** is the operating system for your journey. It collapses the entire travel workflow into a single, AI-powered cockpit.
 
 ---
 
