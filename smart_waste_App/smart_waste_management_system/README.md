@@ -34,6 +34,7 @@ Our cities are drowning in waste, and the systems meant to manage it are failing
 | **Fuel-Wasting Routes** | **Dynamic Route Optimization** — Automated pathfinding directs workers *only* to bins that are truly full. |
 | **Fake Reports, No Proof** | **Photo-Proof Reporting** — Citizens attach photos to reports. Workers must upload completion photos. |
 | **Invisible Costs** | **Admin Analytics Dashboard** — See collection efficiency, worker performance, and system health at a glance. |
+| **Siloed Communication** | **Tri-Role Ecosystem** — Citizen, Worker, and Admin portals with real-time task lifecycle tracking (Pending → In-Progress → Completed). |
 
 ---
 
