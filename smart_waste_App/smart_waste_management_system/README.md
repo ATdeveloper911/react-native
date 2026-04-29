@@ -16,6 +16,7 @@ Our cities are drowning in waste, and the systems meant to manage it are failing
 - 🏙️ **Overflowing Bins, Silent Systems** — Bins sit full for days because there's no real-time monitoring. Citizens suffer the stench and pests.
 - ⛽ **Fuel-Wasting "Drive-by" Collections** — Garbage trucks run pre-determined routes, wasting fuel and time on empty bins while full ones are ignored.
 - 📝 **Fake Reports, No Accountability** — Citizens report overflowing bins, but there's no system to verify if the job was done. Workers can mark "Completed" without ever visiting the site.
+- 🧾 **Invisible Costs** — Municipalities have zero data on collection efficiency, making it impossible to optimize budgets or worker allocation.
 
 
 ---
