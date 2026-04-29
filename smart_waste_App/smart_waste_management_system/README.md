@@ -38,6 +38,8 @@ Our cities are drowning in waste, and the systems meant to manage it are failing
 
 ### 🧠 What Makes SWMS Different?
 
+- **Offline-First, No Excuses** — Workers in dead zones can log collections offline. Data syncs automatically when they're back online. No more "no internet" delays.
+
 ---
 
 ## 📱 App Gallery
