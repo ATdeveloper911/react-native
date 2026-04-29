@@ -27,6 +27,10 @@ Our cities are drowning in waste, and the systems meant to manage it are failing
 
 **SWMS** is a command-and-control ecosystem for waste management. It replaces guesswork with data and silos with synchronization.
 
+
+| Problem | Our Solution |
+|:--------|:-------------|
+
 ---
 
 ## 📱 App Gallery
