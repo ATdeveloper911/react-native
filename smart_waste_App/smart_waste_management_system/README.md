@@ -30,6 +30,8 @@ Our cities are drowning in waste, and the systems meant to manage it are failing
 
 | Problem | Our Solution |
 |:--------|:-------------|
+| **Overflowing, Silent Bins** | **Live Bin Mapping** — Interactive maps with color-coded fill levels (Green → Red) for real-time monitoring. |
+| **Fuel-Wasting Routes** | **Dynamic Route Optimization** — Automated pathfinding directs workers *only* to bins that are truly full. |
 
 ---
 
