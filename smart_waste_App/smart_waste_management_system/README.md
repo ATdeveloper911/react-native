@@ -25,6 +25,8 @@ Our cities are drowning in waste, and the systems meant to manage it are failing
 
 ## 💡 The Solution We Built
 
+**SWMS** is a command-and-control ecosystem for waste management. It replaces guesswork with data and silos with synchronization.
+
 ---
 
 ## 📱 App Gallery
