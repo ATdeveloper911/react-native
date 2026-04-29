@@ -39,6 +39,7 @@ Our cities are drowning in waste, and the systems meant to manage it are failing
 ### 🧠 What Makes SWMS Different?
 
 - **Offline-First, No Excuses** — Workers in dead zones can log collections offline. Data syncs automatically when they're back online. No more "no internet" delays.
+- **Truth & Verification** — The QR-based verification system at the bin site eliminates false claims. If a worker didn't visit, they can't complete the task.
 
 ---
 
