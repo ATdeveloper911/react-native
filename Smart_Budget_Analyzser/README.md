@@ -24,6 +24,8 @@ Managing personal finances is a source of anxiety for millions. The obstacles ar
 
 **Smart Budget Analyzer** is your AI-powered financial co-pilot. It automates the boring stuff and predicts the unexpected.
 
+| Problem | Our Solution |
+
 ---
 ### �� Design Philosophy
 - **Color Scheme**: Beautiful blue (#1e90ff) to green (#32cd32) gradient UI
