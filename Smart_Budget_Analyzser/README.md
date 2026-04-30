@@ -15,6 +15,7 @@ Managing personal finances is a source of anxiety for millions. The obstacles ar
 - 💸 **Unexpected Bills** — Subscriptions renew, bills arrive, and your budget breaks before you even notice.
 - 🏷️ **Manual Categorization Hell** — Downloading CSVs and tagging every coffee, grocery, and Uber ride is soul-crushing.
 - 📉 **No Predictive Power** — Most apps tell you *after* you've overspent. No one warns you *before*.
+- 🔐 **Privacy Fears** — Uploading bank credentials to third-party apps feels like handing over your financial soul.
 
 
 ---
