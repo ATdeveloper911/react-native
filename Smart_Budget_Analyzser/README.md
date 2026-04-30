@@ -25,6 +25,8 @@ Managing personal finances is a source of anxiety for millions. The obstacles ar
 **Smart Budget Analyzer** is your AI-powered financial co-pilot. It automates the boring stuff and predicts the unexpected.
 
 | Problem | Our Solution |
+|:--------|:-------------|
+| **Data Overload** | **AI-Powered Categorization** — Gemini AI automatically categorizes transactions (Groceries, Dining, Transport, etc.). |
 
 ---
 ### �� Design Philosophy
