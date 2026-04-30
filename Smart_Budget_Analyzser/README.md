@@ -4,6 +4,12 @@
 
 **SmartBudgetAnalyzer** is a cutting-edge mobile application for iOS and Android, built with **React Native** and **TypeScript**, designed to revolutionize personal finance management for students and professionals. The app leverages **Firebase** for cloud-based data storage and syncing, **AsyncStorage** for offline support, and **TensorFlow.js** for AI-driven insights.
 
+
+---
+
+## 🎯 The Problem We Saw
+
+---
 ### �� Design Philosophy
 - **Color Scheme**: Beautiful blue (#1e90ff) to green (#32cd32) gradient UI
 - **User Experience**: Touch-friendly, responsive design with smooth animations
