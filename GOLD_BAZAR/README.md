@@ -75,3 +75,13 @@ graph LR
 - **Precision Algorithms**: Implementation of Archimedes' Principle tuned to localized density standards (19.29g/cm³) for exact Karat and purity determination.
 - **Localized Math**: Custom logic to perfectly convert decimal grams into **Tola/Masha/Ratti** formats, including complex "borrowing" math for negative impurity (Kaat) scenarios.
 
+### 📱 React Native Mobile App
+- **On-the-Go Testing**: Perform complex lab tests and generate instant PDF reports from iOS or Android devices.
+- **Instant Receipts**: Direct integration for mobile thermal printing and digital sharing with clients.
+- **Offline Capable**: Full functionality without internet; syncs when back online.
+
+### 🖥️ Electron Desktop App
+- **Terminal Experience**: A modernized, robust desktop environment for front-counter operations.
+- **Live Market Terminal**: Real-time **OS (Ounce Spot) Price** board for Gold and Silver with custom cloud-caching and multiple provider fallbacks.
+- **CORS-proof IPC Fetching**: Secure market data fetching without exposing API keys.
+- **Admin Controls**: User management, session revocation, and system analytics.
