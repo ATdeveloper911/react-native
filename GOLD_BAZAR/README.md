@@ -33,4 +33,7 @@ The gold testing industry is trapped by a "Legacy Desk" paradigm, creating criti
 |:--------|:-------------|
 | **Tethered to a Terminal** | **React Native Mobile App** — Perform lab-grade tests, generate PDF/thermal receipts, and access live market data from any iOS or Android device. |
 | **No Sync, No Freedom** | **Bi-Directional Cloud Sync (Firebase)** — Test data, client records, and session states sync instantly between Mobile and Desktop. Start on mobile, finish on desktop. |
+| **Decimal-Level Risk** | **Lab-Grade Physics Engine** — Archimedes' Principle algorithms tuned to 19.29g/cm³ density standards. Handles complex "borrowing" math for negative impurity (Kaat). |
+| **Two Worlds, One Choice** | **Unified Ecosystem** — A powerful **Electron Desktop terminal** for front-counter operations + a **full-featured Mobile app** for field work. Same data, same features. |
+| **Stale Market Data** | **Live Market Terminal (Electron)** — Real-time OS (Ounce Spot) Price board for Gold & Silver with custom cloud-caching to avoid API rate limits. |
 
