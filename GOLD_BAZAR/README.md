@@ -25,3 +25,12 @@ The gold testing industry is trapped by a "Legacy Desk" paradigm, creating criti
 > *The result?* Financial risk, operational paralysis, and a fragmented workflow where data lives in silos.
 
 ---
+## 💡 The Solution We Built
+
+**GoldDesk** is a **Mobile-First Revolution** that doesn't abandon the desktop. We built **two powerful clients** — React Native (Mobile) and Electron (Desktop) — that **talk to each other in real time**.
+
+| Problem | Our Solution |
+|:--------|:-------------|
+| **Tethered to a Terminal** | **React Native Mobile App** — Perform lab-grade tests, generate PDF/thermal receipts, and access live market data from any iOS or Android device. |
+| **No Sync, No Freedom** | **Bi-Directional Cloud Sync (Firebase)** — Test data, client records, and session states sync instantly between Mobile and Desktop. Start on mobile, finish on desktop. |
+
