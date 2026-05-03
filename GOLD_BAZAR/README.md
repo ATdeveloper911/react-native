@@ -113,3 +113,34 @@ graph LR
 </p>
 
 ---
+
+## 🚀 Key Features
+
+### 🔐 Security & Authentication
+- Secure Login/Signup (Firebase)
+- Forgot Password recovery
+- Device Fingerprinting & Session Management
+- Max 2 Devices per user (across Mobile + Desktop)
+- Role-Based Access Control (Admin/User)
+
+### 🛡️ Admin Portal
+- User Management (Approve/Disable/Delete)
+- Session Control (Active devices across both platforms, revoke remotely)
+- Dashboard with system stats
+
+### 🔬 Accurate Gold Testing
+- Archimedes' Principle for purity calculation
+- Real-time updates
+- 9 composition analysis modes
+- Traditional units: Ratti, Masha, Tola, Grams
+
+### 💰 Advanced Pricing
+- Real-time gold value calculation
+- Configurable rates (per gram/tola)
+- Wastage & labor cost support
+- Shop branding in reports
+
+### 🎨 Premium UI/UX
+- Luxurious dark + gold theme
+- Responsive design (Mobile + Desktop)
+- Custom modals & profile management
