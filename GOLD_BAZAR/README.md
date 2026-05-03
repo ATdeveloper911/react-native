@@ -56,3 +56,10 @@ graph LR
     C -->|Bi-Directional| B
 ```
 
+| Client | Technology | Primary Use Case |
+|:-------|:-----------|:-----------------|
+| **Mobile** | React Native (Expo) | Field testing, on-site client visits, instant PDF/thermal receipts |
+| **Desktop** | Electron + React | Front-counter operations, live market board, admin controls, heavy data entry |
+| **Sync Engine** | Firebase Auth + Firestore | Real-time bi-directional sync, device fingerprinting, session management |
+
+---
