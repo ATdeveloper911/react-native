@@ -63,3 +63,11 @@ graph LR
 | **Sync Engine** | Firebase Auth + Firestore | Real-time bi-directional sync, device fingerprinting, session management |
 
 ---
+
+## ✨ Key Features & Technical Scope
+
+### 🔄 Bi-Directional Sync (The Secret Sauce)
+- **Real-time Cloud Sync** — Test records, client profiles, and session states sync instantly between Mobile and Desktop.
+- **Offline-First Queue** — Mobile app queues operations when offline; syncs automatically when connection returns.
+- **Device Fingerprinting** — Each license allows max 2 active devices. Remotely revoke any device from the admin portal.
+
