@@ -18,4 +18,10 @@ The gold testing industry is trapped by a "Legacy Desk" paradigm, creating criti
 
 - 🪑 **Tethered to a Terminal** — Jewelers are paralyzed by decade-old, offline desktop software. High-stakes testing and live pricing can't be performed away from the front counter.
 - 🔄 **No Sync, No Freedom** — Data lives on one machine. If a jeweler tests gold in the field or at a client's location, that record never makes it back to the main office system.
+- 💸 **Decimal-Level Financial Risk** — Manually calculating gold purity via fluid physics and converting to traditional units (**Tola/Masha/Ratti**) is error-prone. A tiny decimal mistake can cost thousands.
+- 🖥️ **Two Worlds, One Choice** — Shops are forced to choose between a **powerful desktop terminal** (static) or a **basic mobile app** (weak features). No one offers both with sync.
+- 📉 **Stale Market Data** — Most shops rely on manually updated rate boards. There's no real-time, automated feed for Ounce Spot (OS) prices.
 
+> *The result?* Financial risk, operational paralysis, and a fragmented workflow where data lives in silos.
+
+---
