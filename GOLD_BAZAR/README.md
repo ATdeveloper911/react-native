@@ -8,5 +8,8 @@
 [![MERN](https://img.shields.io/badge/MERN_Backend-000000?style=for-the-badge&logo=mern&logoColor=white)](https://www.mongodb.com/mern-stack)
 
 
+**GoldDesk (Gold Bazar)** is a **unified cross-platform laboratory ecosystem** consisting of a **React Native mobile app** and an **Electron desktop application**, fully synced via a cloud backend. It untethers jewelers from their desks, enabling lab-grade gold testing, real-time market intelligence, and professional reporting from anywhere.
+
+---
 
 
