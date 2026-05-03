@@ -91,25 +91,84 @@ graph LR
 - **Enterprise Security**: Strict **Device Fingerprinting** (limited to 2 devices per license) and remote session revocation via a Firebase admin portal.
 
 ---
----
+## 📸 App Gallery
 
-## 📸 Screenshots
+### 📱 Mobile Experience (React Native)
 
-### Home Screen
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ba873db8-6a8e-4c4b-9ed6-254dd8729a51" width="250" />
+  <strong>Home & Authentication</strong>
+</p>
+<p align="center">
+  <img src="YOUR_MOBILE_HOME_IMAGE_URL" width="200" style="border-radius: 15px; border: 2px solid #e0e0e0; box-shadow: 0 5px 15px rgba(0,0,0,0.1);" alt="Mobile Home Screen" />
+  <img src="YOUR_MOBILE_LOGIN_IMAGE_URL" width="200" style="border-radius: 15px; border: 2px solid #e0e0e0; box-shadow: 0 5px 15px rgba(0,0,0,0.1);" alt="Mobile Login" />
+  <img src="YOUR_MOBILE_REGISTER_IMAGE_URL" width="200" style="border-radius: 15px; border: 2px solid #e0e0e0; box-shadow: 0 5px 15px rgba(0,0,0,0.1);" alt="Mobile Register" />
 </p>
 
-### Gold Screen
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/13af3d9d-0dfb-419c-8840-71e872714180" width="250" />
-  <img src="https://github.com/user-attachments/assets/5a3c3437-3ed6-4d66-9450-0670b188094a" width="250" />
+  <strong>Gold Testing & Reports</strong>
+</p>
+<p align="center">
+  <img src="YOUR_MOBILE_GOLD_TEST_IMAGE_URL" width="200" style="border-radius: 15px; border: 2px solid #e0e0e0; box-shadow: 0 5px 15px rgba(0,0,0,0.1);" alt="Gold Testing" />
+  <img src="YOUR_MOBILE_RESULTS_IMAGE_URL" width="200" style="border-radius: 15px; border: 2px solid #e0e0e0; box-shadow: 0 5px 15px rgba(0,0,0,0.1);" alt="Test Results" />
+  <img src="YOUR_MOBILE_REPORT_IMAGE_URL" width="200" style="border-radius: 15px; border: 2px solid #e0e0e0; box-shadow: 0 5px 15px rgba(0,0,0,0.1);" alt="PDF Report" />
 </p>
 
-### Profile & Billing
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/710cb1bd-4afd-4219-802a-e5900e00c06c" width="250" />
-  <img src="https://github.com/user-attachments/assets/7c49d35b-387f-4880-8ae6-eed98edca7a1" width="250" />
+  <strong>Profile & History</strong>
+</p>
+<p align="center">
+  <img src="YOUR_MOBILE_PROFILE_IMAGE_URL" width="200" style="border-radius: 15px; border: 2px solid #e0e0e0; box-shadow: 0 5px 15px rgba(0,0,0,0.1);" alt="Mobile Profile" />
+  <img src="YOUR_MOBILE_HISTORY_IMAGE_URL" width="200" style="border-radius: 15px; border: 2px solid #e0e0e0; box-shadow: 0 5px 15px rgba(0,0,0,0.1);" alt="Test History" />
+  <img src="YOUR_MOBILE_SETTINGS_IMAGE_URL" width="200" style="border-radius: 15px; border: 2px solid #e0e0e0; box-shadow: 0 5px 15px rgba(0,0,0,0.1);" alt="Settings" />
+</p>
+
+<br>
+
+### 🖥️ Desktop Experience (Electron)
+
+<p align="center">
+  <strong>Dashboard & User Management</strong>
+</p>
+<p align="center">
+  <img src="YOUR_DESKTOP_DASHBOARD_IMAGE_URL" width="400" style="border-radius: 15px; border: 2px solid #e0e0e0; box-shadow: 0 5px 15px rgba(0,0,0,0.1); margin: 5px;" alt="Desktop Dashboard" />
+  <img src="YOUR_DESKTOP_USER_DASHBOARD_IMAGE_URL" width="400" style="border-radius: 15px; border: 2px solid #e0e0e0; box-shadow: 0 5px 15px rgba(0,0,0,0.1); margin: 5px;" alt="User Dashboard" />
+</p>
+
+<p align="center">
+  <strong>Profile (Light & Dark Mode)</strong>
+</p>
+<p align="center">
+  <img src="YOUR_DESKTOP_PROFILE_LIGHT_IMAGE_URL" width="400" style="border-radius: 15px; border: 2px solid #e0e0e0; box-shadow: 0 5px 15px rgba(0,0,0,0.1); margin: 5px;" alt="Profile Light Mode" />
+  <img src="YOUR_DESKTOP_PROFILE_DARK_IMAGE_URL" width="400" style="border-radius: 15px; border: 2px solid #e0e0e0; box-shadow: 0 5px 15px rgba(0,0,0,0.1); margin: 5px;" alt="Profile Dark Mode" />
+</p>
+
+<p align="center">
+  <strong>Gold Testing Engine</strong>
+</p>
+<p align="center">
+  <img src="YOUR_DESKTOP_PROFESSIONAL_METHOD_IMAGE_URL" width="400" style="border-radius: 15px; border: 2px solid #e0e0e0; box-shadow: 0 5px 15px rgba(0,0,0,0.1); margin: 5px;" alt="Professional Method" />
+  <img src="YOUR_DESKTOP_MARKET_METHOD_IMAGE_URL" width="400" style="border-radius: 15px; border: 2px solid #e0e0e0; box-shadow: 0 5px 15px rgba(0,0,0,0.1); margin: 5px;" alt="Market Method" />
+</p>
+
+<p align="center">
+  <strong>Reports & History</strong>
+</p>
+<p align="center">
+  <img src="YOUR_DESKTOP_GENERATE_REPORT_IMAGE_URL" width="400" style="border-radius: 15px; border: 2px solid #e0e0e0; box-shadow: 0 5px 15px rgba(0,0,0,0.1); margin: 5px;" alt="Generate Report" />
+  <img src="YOUR_DESKTOP_BILL_HISTORY_IMAGE_URL" width="400" style="border-radius: 15px; border: 2px solid #e0e0e0; box-shadow: 0 5px 15px rgba(0,0,0,0.1); margin: 5px;" alt="Bill History" />
+</p>
+
+<p align="center">
+  <strong>Settings</strong>
+</p>
+<p align="center">
+  <img src="YOUR_DESKTOP_SETTINGS_IMAGE_URL" width="400" style="border-radius: 15px; border: 2px solid #e0e0e0; box-shadow: 0 5px 15px rgba(0,0,0,0.1); margin: 5px;" alt="Settings" />
+</p>
+
+<br>
+
+<p align="center">
+  <em>✨ A unified gold laboratory experience — now on mobile AND desktop ✨</em>
 </p>
 
 ---
@@ -234,3 +293,9 @@ A perfect blend of **physics education**, **cross-platform architecture**, and *
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=23272e&height=30&section=footer" />
 </p>
+
+
+
+
+
+
