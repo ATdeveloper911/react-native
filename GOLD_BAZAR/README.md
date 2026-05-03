@@ -231,8 +231,6 @@ A perfect blend of **physics education**, **cross-platform architecture**, and *
   </a>
 </div>
 
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=23272e&height=30&section=footer" />
 </p>
